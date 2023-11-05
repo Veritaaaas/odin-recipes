@@ -43,3 +43,16 @@ li {
     width: 75%;
     margin: 10px;
 }
+
+.button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+button {
+    border: 10px solid goldenrod;
+    border-radius: 25px;
+    width: 200px;
+    height: 50px;
+}
