@@ -1,0 +1,45 @@
+body {
+    font-family: 'noto sans', sans-serif;
+    background-color: #A3BE8C;
+    font-size: 30px;
+    color: #2E3440;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    text-align: justify;
+}
+
+.container {
+    display: flex;
+}
+
+h1 {
+    margin-top: 20px;
+    text-align: center;
+    font-size: 50px !important;
+    color: #2E3440 !important;
+}
+
+img {
+    margin: 20px;
+    height: 600px;
+    width: 600px;
+    border: 10px solid goldenrod;
+    border-style: groove;
+}
+
+hr {
+    height:5px;
+    border-width: 0;
+    color:rgba(218, 165, 32, 0.681);
+    background-color:rgba(218, 165, 32, 0.681);
+}
+
+p {
+    width: 700px;
+    margin: 20px;
+}
+
+li {
+    width: 75%;
+    margin: 10px;
+}
