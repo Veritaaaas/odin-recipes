@@ -18,6 +18,12 @@ p {
     color: #2E3440;
 }
 
+a {
+    text-decoration: none;
+    color: #2E3440;
+    font-size: 20px;
+}
+
 img {
     width: 400px;
     height: 400px;
